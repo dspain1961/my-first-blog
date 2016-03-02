@@ -6,4 +6,3 @@ urlpatterns = [
     url(r'^post/(?P<pk>\d+)/$', views.post_detail, name='post_detail'),
 ]
 
-#
